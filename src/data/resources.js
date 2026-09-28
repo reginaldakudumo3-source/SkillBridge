@@ -1,0 +1,7 @@
+export const resources = [
+  { courseId: "chemistry-qualitative-analysis", type: "Reference", title: "Periodic table reference", description: "Use a reliable reference while revising elements and ions.", url: "https://www.rsc.org/periodic-table", source: "Royal Society of Chemistry" },
+  { courseId: "physics-refraction", type: "Reference", title: "Physics Classroom", description: "Review explanations and diagrams for core physics concepts.", url: "https://www.physicsclassroom.com/", source: "The Physics Classroom" },
+  { courseId: "biology-cells", type: "Reference", title: "Biology learning resources", description: "Structured explanations for cell biology and related topics.", url: "https://www.khanacademy.org/science/biology", source: "Khan Academy" },
+  { courseId: "mathematics-quadratics", type: "Practice", title: "Algebra practice", description: "Review algebraic methods and practise solving equations.", url: "https://www.khanacademy.org/math/algebra", source: "Khan Academy" },
+  { courseId: "german-communication", type: "Language", title: "Learn German", description: "Practise German vocabulary, grammar, reading and listening.", url: "https://www.dw.com/en/learn-german/s-2469", source: "Deutsche Welle" }
+];
